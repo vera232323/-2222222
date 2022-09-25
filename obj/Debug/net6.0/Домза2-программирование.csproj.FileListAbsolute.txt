@@ -1,0 +1,15 @@
+C:\Users\Вера Королева\Desktop\Домза2-программирование\obj\Debug\net6.0\Домза2-программирование.csproj.AssemblyReference.cache
+C:\Users\Вера Королева\Desktop\Домза2-программирование\obj\Debug\net6.0\Домза2-программирование.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вера Королева\Desktop\Домза2-программирование\obj\Debug\net6.0\Домза2-программирование.AssemblyInfoInputs.cache
+C:\Users\Вера Королева\Desktop\Домза2-программирование\obj\Debug\net6.0\Домза2-программирование.AssemblyInfo.cs
+C:\Users\Вера Королева\Desktop\Домза2-программирование\obj\Debug\net6.0\Домза2-программирование.csproj.CoreCompileInputs.cache
+C:\Users\Вера Королева\Desktop\Домза2-программирование\bin\Debug\net6.0\Домза2-программирование.exe
+C:\Users\Вера Королева\Desktop\Домза2-программирование\bin\Debug\net6.0\Домза2-программирование.deps.json
+C:\Users\Вера Королева\Desktop\Домза2-программирование\bin\Debug\net6.0\Домза2-программирование.runtimeconfig.json
+C:\Users\Вера Королева\Desktop\Домза2-программирование\bin\Debug\net6.0\Домза2-программирование.dll
+C:\Users\Вера Королева\Desktop\Домза2-программирование\bin\Debug\net6.0\Домза2-программирование.pdb
+C:\Users\Вера Королева\Desktop\Домза2-программирование\obj\Debug\net6.0\Домза2-программирование.dll
+C:\Users\Вера Королева\Desktop\Домза2-программирование\obj\Debug\net6.0\refint\Домза2-программирование.dll
+C:\Users\Вера Королева\Desktop\Домза2-программирование\obj\Debug\net6.0\Домза2-программирование.pdb
+C:\Users\Вера Королева\Desktop\Домза2-программирование\obj\Debug\net6.0\Домза2-программирование.genruntimeconfig.cache
+C:\Users\Вера Королева\Desktop\Домза2-программирование\obj\Debug\net6.0\ref\Домза2-программирование.dll
